@@ -34,7 +34,7 @@ h1 {
   color: #444;
   position: relative;
   transform-style: preserve-3d;
-  transition: transform 1s ease-in-out; /* Transition for smooth flipping */
+  transition: transform 1s ease-in-out;
 }
 
 .coin-face {
@@ -55,19 +55,19 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Animation for flipping the coin */
+
 @keyframes flip {
   0% {
     transform: rotateY(0deg);
   }
   50% {
-    transform: rotateY(1800deg); /* Complete flip (5 full rotations) */
+    transform: rotateY(1800deg); 
   }
   100% {
-    transform: rotateY(3600deg); /* Ending position after another full flip */
+    transform: rotateY(3600deg); 
   }
 }
 
 .flipping {
-  animation: flip 1s ease-in-out; /* Apply animation */
+  animation: flip 1s ease-in-out; 
 }

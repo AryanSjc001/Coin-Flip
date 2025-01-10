@@ -2,6 +2,8 @@
 
 This is a simple web application that simulates a coin flip between **Cristiano Ronaldo** and **Lionel Messi**. When you click the "Flip the Coin" button, the coin will flip with an animated effect, and the result will show either "Ronaldo" or "Messi," with a different color for each player.
 
+---
+
 ## Features
 
 - **Coin Flip Animation**: A smooth, visually appealing animation that simulates the coin flipping.
@@ -10,6 +12,8 @@ This is a simple web application that simulates a coin flip between **Cristiano 
   - **Blue** for "Ronaldo".
   - **Purple** for "Messi".
 - **Responsive Design**: The layout adjusts nicely across various screen sizes, ensuring the app is usable on mobile, tablet, and desktop devices.
+
+---
 
 ## Technologies Used
 
@@ -26,10 +30,4 @@ This is a simple web application that simulates a coin flip between **Cristiano 
 3. Click the "Flip the Coin" button to trigger the coin flip animation and display the result.
 4. The result will show either "Ronaldo" (in blue) or "Messi" (in purple) after the animation finishes.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ---
-
-Enjoy flipping the coin between two of the greatest football players in history! ⚽🎉
